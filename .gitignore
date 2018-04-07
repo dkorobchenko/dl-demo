@@ -1,3 +1,7 @@
 .ipynb_checkpoints
 MNIST_data
 __pycache__
+logs
+etc
+catdog/data
+catdog/output
