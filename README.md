@@ -11,7 +11,7 @@ The demo is based on static graph construction.
 Tensorflow-based demo for recognition of hand-written digits. Training is performed on the MNIST dataset.
 The demo is based on TensorFlow Eager Executeion (TF >= 1.7)
 
-[mnist_eager.ipynb](mnist_eager/mnist_eager.ipynb) -> Build, train and test the model
+[mnist_eager.ipynb](mnist/mnist_eager.ipynb) -> Build, train and test the model
 
 ## Cat-Dog
 Tensorflow-based demo for binary image classification [Cat | Dog]. Training is performed on the ImageNet subset.

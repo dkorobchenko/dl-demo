@@ -1,5 +1,5 @@
 .ipynb_checkpoints
-MNIST_data
+logs_mnsit_eager
 __pycache__
 logs
 etc
